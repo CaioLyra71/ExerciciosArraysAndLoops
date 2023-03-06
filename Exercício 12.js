@@ -1,4 +1,4 @@
-let filaDeDentro = ["Jose", "Maria", "Joao"];
+let filaDeDentro = ["Jose"];
 let filaDeFora = ["Joana", "Roberta", "Marcos", "Felipe"];
 
 
