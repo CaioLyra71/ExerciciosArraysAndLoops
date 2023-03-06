@@ -13,7 +13,7 @@ const disjuntores = [
 i = 0
 for (ligado of disjuntores) {
 
-    if (ligado === true) {
+    if (ligado) {
         console.log(i)
 
 
